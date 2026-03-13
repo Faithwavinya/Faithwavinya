@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Faith Wavinya! 👋
+I am a Statistician turned Data Analyst with a passion for turning complex datasets into strategic business insights. My background in Applied Statistics with Computing allows me to approach data with mathematical rigor and technical efficiency.
 
-<!--
-**Faithwavinya/Faithwavinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently: Building a portfolio of end-to-end data projects (Excel, SQL, Python).
 
-Here are some ideas to get you started:
+⚡ Key Strengths: Statistical Modeling, Predictive Analytics, and Interactive Dashboarding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: faithwavinya.3225@gmail.com
+
+Technical Toolkit:
+
+Languages: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, R.
+
+Tools: Microsoft Excel (Advanced), Power BI, GitHub.
+
+Mathematical Core: Regression Analysis, Hypothesis Testing, Probability Theory.
